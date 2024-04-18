@@ -25,6 +25,12 @@
 عوالم العالم الافتراضي لذى يمكنك استعمال لغة تكوبن بلغتين العربية والانجليزية كأساس ويمكن استعمال باقي لغات العالم كفروع.
 
 
+# التحديثات ✅
+https://github.com/MantiqStudio/Takwin/issues/1
+https://github.com/MantiqStudio/Takwin/issues/2
+https://github.com/MantiqStudio/Takwin/issues/3
+https://github.com/MantiqStudio/Takwin/issues/4
+
 # معلومات خاصة بالمطورين 👩‍💻
 ![esa](https://github.com/MantiqStudio/Takwin/assets/167381007/4d8f14b8-014a-4077-bdb2-d27bc7f4c4a2)
 
